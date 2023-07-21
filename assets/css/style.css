@@ -1,0 +1,20 @@
+
+.caja{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+
+.caja2{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+.container_teclas{
+    display: flex;
+}
+.container_click{
+    display: flex;
+}
